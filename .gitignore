@@ -1,5 +1,9 @@
 .gradle
 /build/
+metastore_db/
+derby.log
+profiledata_06-May-2005.tar.gz 
+data/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -14,5 +18,3 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 
-profiledata_06-May-2005.tar.gz 
-data/
